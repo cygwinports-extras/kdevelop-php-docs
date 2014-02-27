@@ -1,9 +1,11 @@
 inherit kde4
 
 NAME="kdevelop-php-docs"
-VERSION=1.5.1
+VERSION=1.6.0
 RELEASE=1
 CATEGORY="Devel"
 SUMMARY="KDE Integrated Development Environment (PHP doc plugin)"
 DESCRIPTION="KDevelop is an Integrated Development Environment to be used for
 a wide variety of programming tasks."
+HOMEPAGE="http://www.kdevelop.org/"
+SRC_URI="mirror://kde/stable/kdevelop/4.${VERSION#*.}/src/${NAME}-${VERSION}.tar.xz"
