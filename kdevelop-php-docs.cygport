@@ -1,7 +1,7 @@
 inherit kde4
 
 NAME="kdevelop-php-docs"
-VERSION=1.6.0
+VERSION=1.7.0
 RELEASE=1
 CATEGORY="Devel"
 SUMMARY="KDE Integrated Development Environment (PHP doc plugin)"
